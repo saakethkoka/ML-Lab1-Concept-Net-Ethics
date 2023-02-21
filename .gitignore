@@ -1,3 +1,4 @@
 glove.twitter.27B.200d.txt
 training.1600000.processed.noemoticon.csv
 numberbatch-en.txt
+*.h5
